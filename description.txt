@@ -1,0 +1,1 @@
+This mods add the possibility to recycle items and nodes by smelting or decrafting them back to their original resources.
