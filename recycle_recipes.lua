@@ -465,3 +465,37 @@ if minetest.get_modpath("3d_armor") then
 
    end
 end
+
+--De Nenio Support
+
+if minetest.get_modpath("de_nenio") then
+
+   minetest.register_craft({
+      type = "cooking",
+      output = "default:bronze_ingot 2",
+      recipe = "de_nenio:hammer_bronze",
+      cooktime = 4
+   })
+
+   minetest.register_craft({
+      type = "cooking",
+      output = "default:steel_ingot 2",
+      recipe = "de_nenio:hammer_steel",
+      cooktime = 4
+   })
+
+   minetest.register_craft({
+      type = "shapeless",
+      output = "default:mese_crystal 2",
+      recipe = {"de_nenio:hammer_mese"},
+      cooktime = 4
+   })
+
+   minetest.register_craft({
+      type = "shapeless",
+      output = "default:diamond 2",
+      recipe = {"de_nenio:hammer_diamond"},
+      cooktime = 4
+   })
+
+end
