@@ -138,49 +138,49 @@ minetest.register_craft({
 
 minetest.register_craft({
    type = "cooking",
-   output = "simple_recycle:steel_nugget 3",
+   output = "nuggets:steel_nugget 3",
    recipe = "carts:rail",
    cooktime = 4
 })
 
 minetest.register_craft({
    type = "cooking",
-   output = "simple_recycle:steel_nugget 3",
+   output = "nuggets:steel_nugget 3",
    recipe = "carts:powerrail",
    cooktime = 4
 })
 
 minetest.register_craft({
    type = "cooking",
-   output = "simple_recycle:steel_nugget 3",
+   output = "nuggets:steel_nugget 3",
    recipe = "carts:brakerail",
    cooktime = 4
 })
 
 minetest.register_craft({
    type = "cooking",
-   output = "simple_recycle:steel_nugget 4",
+   output = "nuggets:steel_nugget 4",
    recipe = "default:ladder_steel",
    cooktime = 4
 })
 
 minetest.register_craft({
    type = "cooking",
-   output = "simple_recycle:steel_nugget 3",
+   output = "nuggets:steel_nugget 3",
    recipe = "xpanes:bar_flat",
    cooktime = 4
 })
 
 minetest.register_craft({
    type = "cooking",
-   output = "simple_recycle:steel_nugget 20",
+   output = "nuggets:steel_nugget 20",
    recipe = "xpanes:door_steel_bar",
    cooktime = 4
 })
 
 minetest.register_craft({
    type = "cooking",
-   output = "simple_recycle:steel_nugget 4",
+   output = "nuggets:steel_nugget 4",
    recipe = "xpanes:trapdoor_steel_bar",
    cooktime = 4
 })
