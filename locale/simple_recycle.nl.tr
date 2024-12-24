@@ -1,4 +1,8 @@
 # textdomain: simple_recycle
+
+Simple Recycle=Simple Recikli
+This adds the possibility to recycle items and nodes by smelting or decrafting them back to their original resources.=Deze mod voegt de mogelijkheid toe om elementen en knooppunten te recyclen door ze te smelten of terug te demonteren naar hun oorspronkelijke bronnen.
+
 Steel Nugget=Staalklompje
 Bronze Nugget=Bronzeklompje
 Gold Nugget=Goudklompje

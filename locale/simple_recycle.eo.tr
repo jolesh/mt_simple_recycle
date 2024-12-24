@@ -1,4 +1,8 @@
 # textdomain: simple_recycle
+
+Simple Recycle=Simple Recikli
+This adds the possibility to recycle items and nodes by smelting or decrafting them back to their original resources.=Ĉi tiu modifikaĵo aldonas la kapablon recikli elementojn kaj nodojn fandante ilin aŭ rompante ilin al siaj originaj rimedoj.
+
 Steel Nugget=Ŝtalero
 Bronze Nugget=Bronzero
 Gold Nugget=Orero

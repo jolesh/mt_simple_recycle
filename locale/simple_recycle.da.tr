@@ -1,4 +1,8 @@
 # textdomain: simple_recycle
+
+Simple Recycle=Nemt Genbrug
+This adds the possibility to recycle items and nodes by smelting or decrafting them back to their original resources.=Denne mod tilføjer muligheden for at genbruge elementer og noder ved at smelte dem ned eller nedbryde dem tilbage til deres oprindelige ressourcer.
+
 Steel Nugget=Stålklump
 Bronze Nugget=Bronzeklump
 Gold Nugget=Guldklump
